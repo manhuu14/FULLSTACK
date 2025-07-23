@@ -1,0 +1,12 @@
+let img =document.querySelector('img');
+img.classList;
+let ading=document.querySelector('h1');
+heading.classList.add("abc"); 
+heading.classList.add("green");
+heading.classList;
+heading.classList;
+let heading=document.querySelector('h1'); 
+heading.classList.add('newone');
+heading.classList.remove('newone');
+heading.setAttribute('class','green');
+heading.classList.contains("underline");
